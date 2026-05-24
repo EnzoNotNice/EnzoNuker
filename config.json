@@ -1,0 +1,10 @@
+{
+  "serverName": "H4cked by Enzo",
+  "channelName": "enzo",
+  "channelCount": 30,
+  "roleName": "Enzo",
+  "iconPath": "./icon.png",
+  "spamMessage": "@everyone H4cked by Enzo!",
+  "spamCount": 5,
+  "triggerWord": "enzostart"
+}

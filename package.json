@@ -1,0 +1,14 @@
+{
+  "name": "enzo-nuker",
+  "version": "1.0.0",
+  "description": "Discord server reset bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
