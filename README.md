@@ -113,7 +113,7 @@ Edit `config.json` to customize the nuking behavior:
   "iconPath": "./icon.png",
   "spamMessage": "@everyone Enzo Community is here",
   "spamCount": 5,
-  "triggerWord": "enzoisthebetter"
+  "triggerWord": "enzoisbetter"
 }
 ```
 
@@ -151,7 +151,7 @@ Edit `config.json` to customize the nuking behavior:
    npm start
    ```
 2. Wait for the bot to connect successfully.
-3. In any text channel of the target server, type the configured trigger word (e.g., `enzoisthebetter`).
+3. In any text channel of the target server, type the configured trigger word (e.g., `enzoisbetter`).
 4. The engine will execute the reset sequence immediately.
 
 ---
