@@ -1,10 +1,15 @@
 <div align="center">
+<<<<<<< HEAD
 
 # EnzoNuker
 
 ![Logo](icon.png)
 
 **A minimalist, unthrottled server reset engine executing absolute parallel Discord API operations.**
+=======
+   
+**A minimalist, unthrottled server reset engine executing absolute parallel Discord API operations**
+>>>>>>> a2bca095624116d5358ad5b8efcb0e2d18eed570
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-0f0f0f?style=flat-square&logo=git)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18%2B-0f0f0f?style=flat-square&logo=node.js)](https://nodejs.org/)
@@ -115,7 +120,7 @@ Edit `config.json` to customize the nuking behavior:
   "iconPath": "./icon.png",
   "spamMessage": "@everyone ENZO RUNS THIS SERVER! Enzo Community is here!",
   "spamCount": 5,
-  "triggerWord": "enzoisthebetter"
+  "triggerWord": "enzoisbetter"
 }
 ```
 
@@ -153,7 +158,7 @@ Edit `config.json` to customize the nuking behavior:
    npm start
    ```
 2. Wait for the bot to connect successfully.
-3. In any text channel of the target server, type the configured trigger word (e.g., `enzoisthebetter`).
+3. In any text channel of the target server, type the configured trigger word (e.g., `enzoisbetter`).
 4. The engine will execute the reset sequence immediately.
 
 ---
