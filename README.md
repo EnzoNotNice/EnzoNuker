@@ -1,9 +1,7 @@
 # EnzoNuker
 
 <div align="center">
-
-![Logo](icon.png)
-
+   
 **A minimalist, unthrottled server reset engine executing absolute parallel Discord API operations**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
