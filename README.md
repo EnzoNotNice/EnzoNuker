@@ -1,30 +1,17 @@
 <div align="center">
-<<<<<<< HEAD
 
 # EnzoNuker
 
-![Logo](icon.png)
+<img src="https://i.ibb.co/5gWgdydy/image.png" width="100%" alt="EnzoNuker Banner" />
+
+<br />
 
 **A minimalist, unthrottled server reset engine executing absolute parallel Discord API operations.**
-=======
-   
-**A minimalist, unthrottled server reset engine executing absolute parallel Discord API operations**
->>>>>>> a2bca095624116d5358ad5b8efcb0e2d18eed570
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-0f0f0f?style=flat-square&logo=git)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18%2B-0f0f0f?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Discord.js Version](https://img.shields.io/badge/discord.js-v14-0f0f0f?style=flat-square&logo=discord)](https://discord.js.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-0f0f0f?style=flat-square&logo=github)](https://github.com/Enzo/EnzoNuker/graphs/commit-activity)
-
-</div>
-
----
-
-## 📷 Interface Showcase
-
-<div align="center">
-
-![Tool Showcase](https://i.ibb.co/5gWgdydy/image.png)
 
 </div>
 
