@@ -1,15 +1,15 @@
-# EnzoNuker
-
 <div align="center">
+
+# EnzoNuker
 
 ![Logo](icon.png)
 
-**A minimalist, unthrottled server reset engine executing absolute parallel Discord API operations**
+**A minimalist, unthrottled server reset engine executing absolute parallel Discord API operations.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Node.js Version](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
-[![Discord.js Version](https://img.shields.io/badge/discord.js-v14-blue.svg)](https://discord.js.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Enzo/EnzoNuker/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0f0f0f?style=flat-square&logo=git)](LICENSE)
+[![Node.js Version](https://img.shields.io/badge/Node.js-v18%2B-0f0f0f?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![Discord.js Version](https://img.shields.io/badge/discord.js-v14-0f0f0f?style=flat-square&logo=discord)](https://discord.js.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-0f0f0f?style=flat-square&logo=github)](https://github.com/Enzo/EnzoNuker/graphs/commit-activity)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 📋 Table of Contents
+## ◆ Table of Contents
 
 - [Features](#-features)
 - [Technical Specifications](#-technical-specifications)
@@ -43,7 +43,7 @@
 
 ---
 
-## ✨ Features
+## ✦ Features
 
 - **Parallel Execution:** Utilizes `Promise.allSettled` for fully parallel promise resolution, ensuring maximum speed.
 - **Silent Operation:** Functions as a silent remote trigger listener without unnecessary chatter.
@@ -53,7 +53,7 @@
 
 ---
 
-## 🔧 Technical Specifications
+## ⚙ Technical Specifications
 
 | Component | Requirement |
 | :--- | :--- |
@@ -65,7 +65,7 @@
 
 ---
 
-## 📦 Prerequisites
+## ◈ Prerequisites
 
 Before installation, ensure you have the following:
 
@@ -77,7 +77,7 @@ Before installation, ensure you have the following:
 
 ---
 
-## 🚀 Installation
+## ✦ Installation
 
 1. Clone the repository or download the source code.
 2. Navigate to the project directory:
@@ -91,7 +91,7 @@ Before installation, ensure you have the following:
 
 ---
 
-## ⚙️ Configuration
+## ⚙ Configuration
 
 ### 1. Environment Variables (`.env`)
 
@@ -113,7 +113,7 @@ Edit `config.json` to customize the nuking behavior:
   "channelCount": 30,
   "roleName": "Enzo",
   "iconPath": "./icon.png",
-  "spamMessage": "@everyone Enzo Community is here",
+  "spamMessage": "@everyone ENZO RUNS THIS SERVER! Enzo Community is here!",
   "spamCount": 5,
   "triggerWord": "enzoisthebetter"
 }
@@ -132,7 +132,7 @@ Edit `config.json` to customize the nuking behavior:
 
 ---
 
-## 📡 Usage
+## ◆ Usage
 
 ### Step 1: Developer Portal Setup
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
@@ -158,7 +158,7 @@ Edit `config.json` to customize the nuking behavior:
 
 ---
 
-## 🔒 Security & Permissions
+## 🛡 Security & Permissions
 
 - **Ownership Verification:** Ensure you are the owner of the server or have explicit written permission from the owner before running this tool.
 - **Rate Limits:** While the tool is designed for parallel execution, excessive abuse may trigger Discord's global rate limits or result in account termination.
@@ -166,14 +166,18 @@ Edit `config.json` to customize the nuking behavior:
 
 ---
 
-## 🤝 Support
+## ◈ Support
 
-For issues, feature requests, or contributions, please open an issue on the repository or contact me directly.
+For issues, feature requests, or contributions, please open an issue on the repository or contact the developer directly.
+
+- **Developer:** Enzo
+- **Repository:** [GitHub Link Placeholder]
+- **Documentation:** [Link to Wiki if available]
 
 ---
 
 <div align="center">
 
-Developed by Enzo
+Made by Enzo
 
 </div>
