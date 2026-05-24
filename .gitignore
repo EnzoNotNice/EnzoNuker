@@ -3,7 +3,6 @@ node_modules/
 /package-lock.json
 
 # Environment Secrets (CRITICAL: Do not upload to GitHub)
-.env
 .env.local
 .env.development.local
 .env.test.local
